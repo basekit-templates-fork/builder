@@ -1,7 +1,7 @@
 {
-	"name":"Mikkeli",
-	"thumbnail":"mikkeli.png",
-	"screenshot":"mikkeli.png",
+	"name":"Builder",
+	"thumbnail":"builder.png",
+	"screenshot":"builder.png",
     "tags": { "en": ["business", "clean", "corporate"] },
     "pageTypes":["home"],
     "templateType":"standard",
@@ -9,12 +9,12 @@
     {
         "Swatch 1": {
             "color1":"#ffffff",
-            "color2":"#d0d2c8",
-            "color3":"#6abcdc",
-            "color4":"#282828",
+            "color2":"#DD9800",
+            "color3":"#826C59",
+            "color4":"#623D1D",
             "color5":"#646464",
             "color6":"#646464",
-            "color7":"#e8e9e4"
+            "color7":"#F3F3F3"
         },
         "Swatch 2": {
             "color1":"#ffffff",
@@ -55,12 +55,14 @@
     },
 
     "images":[
-        "images/slideshow/feature-slider.jpg"
+        "images/slideshow/feature-slider.jpg",
+        "images/slideshow/feature-slider2.jpg",
+        "images/slideshow/feature-slider3.jpg"
     ],
     "fontSwatch": {
        "title": "Merriweather / Source Sans Pro / Cabin",
         "font1": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "32px",
             "font-weight": "700",
             "line-height": "inherit",
@@ -68,7 +70,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "26px",
             "font-weight": "700",
             "line-height": "32px",
@@ -76,15 +78,15 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Merriweather\", Georgia, serif",
-            "font-size": "17px",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
+            "font-size": "19px",
             "font-weight": "600",
-            "line-height": "25px",
+            "line-height": "27px",
             "color": "@color-swatch4",
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "18px",
             "font-weight": "inherit",
             "line-height": "inherit",
@@ -92,15 +94,15 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
-            "font-size": "16px",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
+            "font-size": "17px",
             "font-weight": "inherit",
             "line-height": "24px",
             "color": "@color-swatch5",
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "16px",
             "font-weight": "inherit",
             "line-height": "inherit",
@@ -111,7 +113,7 @@
             "background-color-hover": "@color-swatch7"
          },
         "font7": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "16px",
             "font-weight": "300",
             "line-height": "24px",
@@ -121,7 +123,7 @@
             "background-color-hover": "@color-swatch1"
         },
         "font8": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "30px",
             "font-weight": "700",
             "line-height": "36px",
@@ -129,7 +131,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Droid Sans\", Helvetica, Arial, sans-serif",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "24px",
             "font-weight": "inherit",
             "line-height": "inherit",
@@ -137,10 +139,10 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Merriweather\", Georgia, serif",
-            "font-size": "24px",
+            "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
+            "font-size": "28px",
             "font-weight": "inherit",
-            "line-height": "32px",
+            "line-height": "38px",
             "color": "@color-swatch4",
             "letter-spacing": "inherit"
         }
